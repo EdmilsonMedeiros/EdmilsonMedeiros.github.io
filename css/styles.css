@@ -10,6 +10,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11437,4 +11438,21 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.img-ssf{
+  float: right;
+}
+#portfolio{
+  background-color: #e0e0e0;
+}
+#experience{
+  background-color: #e0e0e0;
+}
+#skills{
+  background-color: #e0e0e0;
+}
+.app1{
+  padding: 1em;
+  background-color: #f3eeee;
 }
