@@ -11443,4 +11443,8 @@ section.resume-section .resume-section-content {
 .app1{
   padding: 1em;
   background-color: #f3eeee;
+  border-radius: 1em;
+}
+.img-ssf{
+  float: right;
 }
