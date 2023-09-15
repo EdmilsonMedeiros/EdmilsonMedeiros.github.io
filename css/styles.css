@@ -10,6 +10,9 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+.b-rounded{
+  border-radius: 1em;
+}
 
 :root {
   --bs-blue: #0d6efd;
